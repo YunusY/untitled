@@ -1,0 +1,1663 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.15)  20 OCT 2015 16:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**exam.tex
+(./exam.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 7 languages loaded.
+(./meta-exam.tex) (./vs-exams.tex
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+Package scrartcl Info: You've used obsolete option `12pt'.
+(scrartcl)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrartcl)             used instead.
+(scrartcl)             You may simply replace `12pt'
+(scrartcl)             by `fontsize=12pt'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 1267.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (12p
+t)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+
+Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `pdftex'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `pagesize=pdftex'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `pagesize=pdftex' there
+(typearea)             instead of `pdftex', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1213.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen103
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+
+Package hyperref Warning: Option `a4paper' is no longer used.
+
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 4319.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+
+Package hyperref Warning: Invalid value `000'
+(hyperref)                for option `pdfborder'.
+(hyperref)                Option setting is ignored on input line 4319.
+
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count92
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count98
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdfcolmk.sty
+Package: pdfcolmk 2008/08/11 v1.2 Color support for pdfTeX via marks (HO)
+Package pdfcolmk Info: The color stack of pdfTeX >= 1.40 is used. Therefore
+(pdfcolmk)             this package is not necessary and not loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/05/30 v0.4u Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count99
+\calc@Bcount=\count100
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count101
+\calc@Cskip=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/05/30 v0.4u Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@toc@title=\toks15
+\c@AM@survey=\count102
+\AM@templatesizebox=\box28
+) (./qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+\XKV@depth=\count103
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+\c@qr@i=\count104
+\c@qr@j=\count105
+\qr@a=\count106
+\qr@b=\count107
+\qr@c=\count108
+\qr@for@depth=\count109
+\qr@for@maxdepth=\count110
+\qr@for@start=\count111
+\qr@for@end=\count112
+\qr@for@step=\count113
+\qr@newforcount=\count114
+\qr@newforcount=\count115
+\qr@desiredheight=\skip51
+\qr@modulesize=\skip52
+\qr@minipagewidth=\skip53
+\c@maski=\count116
+\c@maskj=\count117
+\c@totalones=\count118
+\c@penaltyi=\count119
+\c@penaltyii=\count120
+\c@penaltyiii=\count121
+\c@penaltyiv=\count122
+\c@qr@hexchars=\count123
+\qr@newforcount=\count124
+\c@qr@divisionsremaining=\count125
+)
+\DimX=\dimen112
+\DimY=\dimen113
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-savepos.sty
+Package: zref-savepos 2012/04/04 v2.24 Module savepos for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+Package zref Info: New property list: savepos on input line 75.
+Package zref Info: New property: posx on input line 76.
+Package zref Info: New property: posy on input line 77.
+)
+VSEXAM: {'Typ':'pageGeo', 'hsize': '15.7546'}
+(/usr/share/texlive/texmf-dist/tex/generic/german/ngerman.sty v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen114
+ngerman -- \language number for naustrian undefined, default 6 used.
+ngerman -- \language number for French undefined, default 255 used.
+) (/usr/share/texlive/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen115
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count126
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count127
+\leftroot@=\count128
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count129
+\DOTSCASE@=\count130
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count131
+\c@MaxMatrixCols=\count132
+\dotsspace@=\muskip11
+\c@parentequation=\count133
+\dspbrk@lvl=\count134
+\tag@help=\toks19
+\row@=\count135
+\column@=\count136
+\maxfields@=\count137
+\andhelp@=\toks20
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks21
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footnpag/footnpag.sty
+Package: footnpag 1995/11/10 v2.6 numbering footnotes per page
+\old_foot_file=\read1
+\foot_file=\write3
+\foot_name_no=\count138
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box31
+\UL@hyphenbox=\box32
+\UL@skip=\skip60
+\UL@hook=\toks31
+\UL@height=\dimen124
+\UL@pe=\count139
+\UL@pixel=\dimen125
+\ULC@box=\box33
+Package: ulem 2012/05/18
+\ULdepth=\dimen126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2000/03/12 v2.1 Cancel math terms
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen127
+\extrarowheight=\dimen128
+\NC@list=\toks32
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+\everycr=\toks33
+\minrowclearance=\skip63
+)
+(/usr/share/texlive/texmf-dist/tex/generic/path/path.sty
+This is path.sty, Version 3.05 <7-Apr-2011>
+\c@tcode=\count140
+\c@unter=\count141
+) (/usr/share/texlive/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count142
+\d@lta=\count143
+\@delta=\dimen129
+\@@delta=\dimen130
+\@gridcnt=\count144
+\@joinkind=\count145
+\@dotgap=\dimen131
+\@ddotgap=\dimen132
+\@x@diff=\count146
+\@y@diff=\count147
+\x@diff=\dimen133
+\y@diff=\dimen134
+\@dotbox=\box34
+\num@segments=\count148
+\num@segmentsi=\count149
+\@datafile=\read2
+) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrpage2.sty
+Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
+LaTeX Info: Redefining \pagemark on input line 176.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip64
+\L@UnitsRaiseTextstyle=\skip65
+\L@UnitsRaiseScriptstyle=\skip66
+))
+(/usr/share/texlive/texmf-dist/tex/latex/SIstyle/sistyle.sty
+Package: sistyle 2008/07/16 v2.3a SI units and numbers (DNJ Els)
+\ttoks@A=\toks34
+\ttoks@B=\toks35
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathcomp/mathcomp.sty
+Package: mathcomp 2001/01/07 v0.1f (TBo)
+\symTC=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `TC' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math symbol \dagger on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 48.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box35
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
+\ttl@plus=\dimen135
+\ttl@minus=\dimen136
+\ttl@toksa=\toks36
+\titlewidth=\dimen137
+\titlewidthlast=\dimen138
+\titlewidthfirst=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count150
+\lst@gtempboxa=\box36
+\lst@token=\toks37
+\lst@length=\count151
+\lst@currlwidth=\dimen140
+\lst@column=\count152
+\lst@pos=\count153
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count154
+\lst@lineno=\count155
+\lst@maxwidth=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/07/10 1.5 (Carsten Heinz)
+\c@lstnumber=\count156
+\lst@skipnumbers=\count157
+\lst@framebox=\box37
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/06/27 1.5pre1 listings configuration
+))
+Package: listings 2013/07/10 1.5 (Carsten Heinz)
+
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks38
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box38
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen144
+\pgf@y=\dimen145
+\pgf@xa=\dimen146
+\pgf@ya=\dimen147
+\pgf@xb=\dimen148
+\pgf@yb=\dimen149
+\pgf@xc=\dimen150
+\pgf@yc=\dimen151
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count158
+\c@pgf@countb=\count159
+\c@pgf@countc=\count160
+\c@pgf@countd=\count161
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count162
+\pgfsyssoftpath@bigbuffer@items=\count163
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen152
+\pgfmath@count=\count164
+\pgfmath@box=\box39
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count165
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen153
+\pgf@picmaxx=\dimen154
+\pgf@picminy=\dimen155
+\pgf@picmaxy=\dimen156
+\pgf@pathminx=\dimen157
+\pgf@pathmaxx=\dimen158
+\pgf@pathminy=\dimen159
+\pgf@pathmaxy=\dimen160
+\pgf@xx=\dimen161
+\pgf@xy=\dimen162
+\pgf@yx=\dimen163
+\pgf@yy=\dimen164
+\pgf@zx=\dimen165
+\pgf@zy=\dimen166
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen167
+\pgf@path@lasty=\dimen168
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen169
+\pgf@shorten@start@additional=\dimen170
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box40
+\pgf@hbox=\box41
+\pgf@layerbox@main=\box42
+\pgf@picture@serial@count=\count166
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen171
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen172
+\pgf@pt@y=\dimen173
+\pgf@pt@temp=\dimen174
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen175
+\pgf@sys@shading@range@num=\count167
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box43
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box44
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen176
+\pgf@nodesepend=\dimen177
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen178
+\pgffor@skip=\dimen179
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count168
+\pgfplotmarksize=\dimen180
+)
+\tikz@lastx=\dimen181
+\tikz@lasty=\dimen182
+\tikz@lastxsaved=\dimen183
+\tikz@lastysaved=\dimen184
+\tikzleveldistance=\dimen185
+\tikzsiblingdistance=\dimen186
+\tikz@figbox=\box45
+\tikz@tempbox=\box46
+\tikztreelevel=\count169
+\tikznumberofchildren=\count170
+\tikznumberofcurrentchild=\count171
+\tikz@fig@count=\count172
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count173
+\pgfmatrixcurrentcolumn=\count174
+\pgf@matrix@numberofcolumns=\count175
+)
+\tikz@expandcount=\count176
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackg
+rounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
+\pgf@layerbox@background=\box47
+\pgf@layerboxsaved@background=\box48
+) (./totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
+ounters
+) (./calculator.sty
+Package: calculator 2012/06/10 v.1.0a
+\cctr@lengtha=\dimen187
+\cctr@lengthb=\dimen188
+\cctr@epsilon=\dimen189
+)
+(/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
+Package: background 2012/08/06 v2.0 background material
+
+(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks47
+\AP@partial=\box49
+\AP@footins=\box50
+))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen190
+\lightrulewidth=\dimen191
+\cmidrulewidth=\dimen192
+\belowrulesep=\dimen193
+\belowbottomsep=\dimen194
+\aboverulesep=\dimen195
+\abovetopsep=\dimen196
+\cmidrulesep=\dimen197
+\cmidrulekern=\dimen198
+\defaultaddspace=\dimen199
+\@cmidla=\count177
+\@cmidlb=\count178
+\@aboverulesep=\dimen200
+\@belowrulesep=\dimen201
+\@thisruleclass=\count179
+\@lastruleclass=\count180
+\@thisrulewidth=\dimen202
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen203
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip69
+\LTright=\skip70
+\LTpre=\skip71
+\LTpost=\skip72
+\LTchunksize=\count181
+\LTcapwidth=\dimen204
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count182
+\LT@rows=\count183
+\c@LT@tables=\count184
+\c@LT@chunks=\count185
+\LT@p@ftn=\toks48
+)
+Class scrartcl Info: longtable captions redefined on input line 127.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/boolexpr/boolexpr.sty
+Package: boolexpr 2010/04/15 v3.14 Purely expandable boolean expressions and sw
+itch (eTeX)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen205
+)))
+\c@sb=\count187
+\c@todocounter=\count188
+\c@ct=\count189
+LaTeX Info: Redefining \textsubscript on input line 495.
+
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 240.
+))
+VSEXAM: {'Typ':'borderGeo', 'borderFactor': '0.9235'}
+(./exam.aux
+<Reading QR code for "VERANSTALTUNG;SEMESTER;DATUM;en;10;14" at level 3-M from 
+aux file.>
+(./cover-en.aux <Reading QR code for "2" at level 1-H from aux file.>
+) (./aufgaben.aux <Reading QR code for "3" at level 1-H from aux file.>
+<Reading QR code for "4" at level 1-H from aux file.>
+) <Reading QR code for "5" at level 1-H from aux file.>
+<Reading QR code for "6" at level 1-H from aux file.>
+<Reading QR code for "7" at level 1-H from aux file.>
+<Reading QR code for "8" at level 1-H from aux file.>
+<Reading QR code for "9" at level 1-H from aux file.>
+<Reading QR code for "10" at level 1-H from aux file.>
+\c@pointsforassignment1@totc=\count190
+\c@pointsforassignment2@totc=\count191
+\c@pointsforassignment3@totc=\count192
+\c@pointsforassignment4@totc=\count193
+\c@pointsforassignment5@totc=\count194
+\c@pointsforassignment6@totc=\count195
+\c@pointsforassignment7@totc=\count196
+\c@pointsforassignment8@totc=\count197
+\c@pointsforassignment9@totc=\count198
+\c@pointsforassignment10@totc=\count199
+\c@pointsforassignment11@totc=\count200
+\c@pointsforassignment12@totc=\count201
+\c@pointsforassignment13@totc=\count202
+\c@pointsforassignment14@totc=\count203
+\c@numberofassignments@totc=\count204
+\c@exampoints@totc=\count205
+\c@lastpageexam@totc=\count206
+)
+\openout1 = `exam.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 23.
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring OFF on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count207
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+
+(./exam.out) (./exam.out)
+\@outlinefile=\write5
+\openout5 = `exam.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count208
+\scratchdimen=\dimen206
+\scratchbox=\box56
+\nofMPsegments=\count209
+\nofMParguments=\count210
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count211
+\MPscratchDim=\dimen207
+\MPnumerator=\count212
+\makeMPintoPDFobject=\count213
+\everyMPtoPDFconversion=\toks50
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+\c@lstlisting=\count214
+
+ABD: EveryShipout initializing macros
+\c@pointsforassignment1=\count215
+\c@pointsforassignment2=\count216
+\c@pointsforassignment3=\count217
+\c@pointsforassignment4=\count218
+\c@pointsforassignment5=\count219
+\c@pointsforassignment6=\count220
+\c@pointsforassignment7=\count221
+\c@pointsforassignment8=\count222
+\c@pointsforassignment9=\count223
+\c@pointsforassignment10=\count224
+\c@pointsforassignment11=\count225
+\c@pointsforassignment12=\count226
+\c@pointsforassignment13=\count227
+\c@pointsforassignment14=\count228
+\c@numberofassignments=\count229
+\c@exampoints=\count230
+\c@tablecounter=\count231
+\c@actual=\count232
+
+VSEXAM: {'Typ':'mainQR', 'content': 'VERANSTALTUNG;SEMESTER;DATUM;en;10;14'}
+
+
+
+<QR code requested for "VERANSTALTUNG;SEMESTER;DATUM;en;10;14" in version 0-M.>
+
+
+<Copying the QR code for "VERANSTALTUNG;SEMESTER;DATUM;en;10;14" in version 3-M
+ as previously calculated.>
+<Unilogo.jpg, id=36, 1069.74657pt x 269.50688pt>
+File: Unilogo.jpg Graphic file (type jpg)
+ <use Unilogo.jpg>
+Package pdftex.def Info: Unilogo.jpg used on input line 143.
+(pdftex.def)             Requested size: 225.86131pt x 56.9055pt.
+
+<vslogo.jpg, id=37, 980.16188pt x 769.37437pt>
+File: vslogo.jpg Graphic file (type jpg)
+ <use vslogo.jpg>
+Package pdftex.def Info: vslogo.jpg used on input line 144.
+(pdftex.def)             Requested size: 72.49196pt x 56.9055pt.
+
+<background-img.png, id=38, 447.92343pt x 633.86812pt>
+File: background-img.png Graphic file (type png)
+
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 148.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./background-img.png> <./U
+nilogo.jpg> <./vslogo.jpg>]
+\openout2 = `cover-en.aux'.
+
+ (./cover-en.tex
+<kreuze.png, id=50, 283.81032pt x 115.18031pt>
+File: kreuze.png Graphic file (type png)
+ <use kreuze.png>
+Package pdftex.def Info: kreuze.png used on input line 14.
+(pdftex.def)             Requested size: 192.69302pt x 78.2038pt.
+)
+File: background-img.png Graphic file (type png)
+
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 151.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "2" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "2" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[2
+
+ <./kreuze.png>]
+\openout2 = `aufgaben.aux'.
+
+ (./aufgaben.tex
+LaTeX Font Info:    Try loading font information for T1+aess on input line 7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/t1aess.fd
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+)
+LaTeX Font Info:    Font shape `T1/aess/m/it' in size <14.4> not available
+(Font)              Font shape `T1/aess/m/sl' tried instead on input line 7.
+
+VSEXAM: {'Typ':'AufgabeStart', 'Punkte': 14, 'Seite':'3'}
+
+Overfull \hbox (24.99998pt too wide) in paragraph at lines 7--7
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+
+ []
+
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '2', 'Seite':'3'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'24.98656'}
+VSEXAM: {'Typ':'MCStart', 'PunkteKorrekt': '2', 'AnzahlKorrekt':'1'}
+VSEXAM: {'Typ':'MCLine', 'Antwort': 'w'}
+VSEXAM: {'Typ':'MCLine', 'Antwort': 'f'}
+VSEXAM: {'Typ':'MCLine', 'Antwort': 'f'}
+
+Underfull \vbox (badness 10000) detected at line 19
+ []
+
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'19.29926'}
+
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 33--34
+[] [] 
+ []
+
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '2', 'Seite':'3'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'18.88953'}
+VSEXAM: {'Typ':'MCLineTwo', 'Antwort1': 'w', 'Antwort2': 'f'}
+VSEXAM: {'Typ':'MCLineTwo', 'Antwort1': 'w', 'Antwort2': 'f'}
+
+Underfull \vbox (badness 10000) detected at line 48
+ []
+
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'14.42827'}
+
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 60--61
+[] [] 
+ []
+
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '2', 'Seite':'3'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'14.01854'}
+VSEXAM: {'Typ':'PropLine', 'Antwort1': 'w', 'Antwort2': 'f', 'Antwort3': 'f', '
+Antwort4': 'w'}
+VSEXAM: {'Typ':'PropLine', 'Antwort1': 'f', 'Antwort2': 'w', 'Antwort3': 'f', '
+Antwort4': 'f'}
+
+Underfull \vbox (badness 10000) detected at line 74
+ []
+
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'9.0475'}
+
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 83--84
+[] [] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 85.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "3" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "3" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[3
+
+
+
+]
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '2', 'Seite':'4'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'26.50513'}
+VSEXAM: {'Typ':'Freitext', 'Zeilen': '3', 'Loesung': 'Loesungstext'}
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'21.90512'}
+
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 94--95
+[] [] 
+ []
+
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '2', 'Seite':'4'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'21.49539'}
+VSEXAM: {'Typ':'FreitextLine', 'Aufgabentext': 'L4:~~~~~~~~~~', 'Loesung': 'Tra
+nsport'}
+VSEXAM: {'Typ':'FreitextLine', 'Aufgabentext': 'L3:~~~~~~~~~~', 'Loesung': 'Net
+work'}
+VSEXAM: {'Typ':'FreitextLine', 'Aufgabentext': 'L2:~~~~~~~~~~', 'Loesung': 'Dat
+a Link'}
+VSEXAM: {'Typ':'FreitextLine', 'Aufgabentext': 'L1:~~~~~~~~~~', 'Loesung': 'Phy
+sical'}
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'17.16772'}
+
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 116--117
+ [] 
+ []
+
+VSEXAM: {'Typ':'AufgabenTeil', 'Punkte': '4', 'Seite':'4'}
+VSEXAM: {'Typ':'edgeStart', 'X': '2.6328', 'Y':'16.758'}
+VSEXAM: {'Typ':'BildAufgabe', 'Bildtext': 'Image Caption', 'Loesungsbild': 'img
+/bildLsg'}
+<img/bildAfg.png, id=73, 182.18062pt x 182.18062pt>
+File: img/bildAfg.png Graphic file (type png)
+ <use img/bildAfg.png>
+Package pdftex.def Info: img/bildAfg.png used on input line 124.
+(pdftex.def)             Requested size: 134.44064pt x 134.4446pt.
+
+VSEXAM: {'Typ':'edgeEnd', 'X': '18.48743', 'Y':'9.1239'}
+)
+Overfull \hbox (3.24544pt too wide) in paragraph at lines 125--156
+[] [] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 156.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "4" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "4" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[4
+
+ <./img/bildAfg.png>]
+\c@lastpageexam=\count233
+
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "5" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "5" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[5
+
+]
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "6" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "6" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[6
+
+]
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "7" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "7" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[7
+
+]
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "8" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "8" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[8
+
+]
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "9" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "9" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[9
+
+]
+Overfull \hbox (37.28859pt too wide) in paragraph at lines 166--166
+[] 
+ []
+
+File: background-img.png Graphic file (type png)
+<use background-img.png>
+Package pdftex.def Info: background-img.png used on input line 166.
+(pdftex.def)             Requested size: 597.56923pt x 845.11351pt.
+
+Overfull \hbox (2.15741pt too wide) has occurred while \output is active
+[]|\T1/aer/m/sl/12 SEMESTER| 
+ []
+
+
+Overfull \hbox (39.99998pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Overfull \vbox (44.87494pt too high) has occurred while \output is active []
+
+
+
+
+<QR code requested for "10" in version 0-M.>
+<Error-correction level increased from M to H at no cost.>
+<Copying the QR code for "10" in version 1-H as previously calculated.>
+VSEXAM: {'Typ':'pageQr', 'X': '17.44827', 'Y':'2.69395'}
+[10
+
+] 
+AED: lastpage setting LastPage
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
+(./exam.aux
+<Reading QR code for "VERANSTALTUNG;SEMESTER;DATUM;en;10;14" at level 3-M from 
+aux file.>
+(./cover-en.aux <Reading QR code for "2" at level 1-H from aux file.>
+) (./aufgaben.aux <Reading QR code for "3" at level 1-H from aux file.>
+<Reading QR code for "4" at level 1-H from aux file.>
+) <Reading QR code for "5" at level 1-H from aux file.>
+<Reading QR code for "6" at level 1-H from aux file.>
+<Reading QR code for "7" at level 1-H from aux file.>
+<Reading QR code for "8" at level 1-H from aux file.>
+<Reading QR code for "9" at level 1-H from aux file.>
+<Reading QR code for "10" at level 1-H from aux file.>
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 172.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 172.
+Package rerunfilecheck Info: File `exam.out' has not changed.
+(rerunfilecheck)             Checksum: 0B8831EE971252498CFA064383B8C310;381.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
+ ) 
+Here is how much of TeX's memory you used:
+ 23477 strings out of 494979
+ 385771 string characters out of 6179170
+ 523086 words of memory out of 5000000
+ 26110 multiletter control sequences out of 15000+600000
+ 43984 words of font info for 116 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 67i,18n,71p,993b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/stmaryrd/stmary10.pfb>
+Output written on exam.pdf (10 pages, 268406 bytes).
+PDF statistics:
+ 152 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+
